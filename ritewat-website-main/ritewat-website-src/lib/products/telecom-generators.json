@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Telecom Generator",
+    "powerOutput": "10-75 kVA",
+    "powerType": "Diesel",
+    "frequency": "50 & 60 Hz",
+    "type": "Silent",
+    "images": [
+      "/products/products/Telecom/telecom1.png"
+    ],
+    "description": "The RW-T100 is specially designed for telecommunications applications, with integrated features to ensure continuous operation of critical communication infrastructure.",
+    "doc": "/brochures/TelecomRangeBrochure.pdf"
+  }
+]
